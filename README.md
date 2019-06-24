@@ -1,13 +1,19 @@
-## Example Python program about queues
+## Example Python program about queues (W.I.P)
 
-at the same time a good example for explaining pre-commit hooks
+These are my experiments with ciw package used for queueing theory simulations
+
+
+At the same time Im going to use this repo as good example for explaining 
+
+* pre-commit hooks
+* black formatter
+* flake8 
 
 
 
 
 ## Queue terminology
 
-Queueing theory uses notation with Greek letters.
 
   * First In First Out (FIFO): serve the customer who has been waiting for the longest time.
 
@@ -48,7 +54,9 @@ Examples:
   
 ### Little's Law
 
-Little's law is a theorem by John Little which states: the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system.
+> Little's law is a theorem by John Little which states: the long-term average number L of customers in a stationary system
+> is equal to the long-term average effective arrival rate λ multiplied by the average time W that a 
+> customer spends in the system.
 
 Example notation:
 
